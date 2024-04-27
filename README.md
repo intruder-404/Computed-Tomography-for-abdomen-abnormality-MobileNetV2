@@ -9,5 +9,5 @@ Classes:: ['abdominal_aorta_dilatation', 'aneurysmal_dilatation_of_aorta', 'aort
  
 With a batchsize 32, validation accuracy quickly surged and plateaud to 0.01 loss(*needs huger dataset)
 
-
+## Accuracy charts
 ![Project Screenshot](acc.png)
